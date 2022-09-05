@@ -1,0 +1,14 @@
+/Users/roshithkr/Projects/DoctorMangementSytem/DoctorMangementSytem/bin/Debug/netcoreapp3.1/DoctorMangementSytem
+/Users/roshithkr/Projects/DoctorMangementSytem/DoctorMangementSytem/bin/Debug/netcoreapp3.1/DoctorMangementSytem.deps.json
+/Users/roshithkr/Projects/DoctorMangementSytem/DoctorMangementSytem/bin/Debug/netcoreapp3.1/DoctorMangementSytem.runtimeconfig.json
+/Users/roshithkr/Projects/DoctorMangementSytem/DoctorMangementSytem/bin/Debug/netcoreapp3.1/DoctorMangementSytem.runtimeconfig.dev.json
+/Users/roshithkr/Projects/DoctorMangementSytem/DoctorMangementSytem/bin/Debug/netcoreapp3.1/DoctorMangementSytem.dll
+/Users/roshithkr/Projects/DoctorMangementSytem/DoctorMangementSytem/bin/Debug/netcoreapp3.1/DoctorMangementSytem.pdb
+/Users/roshithkr/Projects/DoctorMangementSytem/DoctorMangementSytem/obj/Debug/netcoreapp3.1/DoctorMangementSytem.csproj.AssemblyReference.cache
+/Users/roshithkr/Projects/DoctorMangementSytem/DoctorMangementSytem/obj/Debug/netcoreapp3.1/DoctorMangementSytem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roshithkr/Projects/DoctorMangementSytem/DoctorMangementSytem/obj/Debug/netcoreapp3.1/DoctorMangementSytem.AssemblyInfoInputs.cache
+/Users/roshithkr/Projects/DoctorMangementSytem/DoctorMangementSytem/obj/Debug/netcoreapp3.1/DoctorMangementSytem.AssemblyInfo.cs
+/Users/roshithkr/Projects/DoctorMangementSytem/DoctorMangementSytem/obj/Debug/netcoreapp3.1/DoctorMangementSytem.csproj.CoreCompileInputs.cache
+/Users/roshithkr/Projects/DoctorMangementSytem/DoctorMangementSytem/obj/Debug/netcoreapp3.1/DoctorMangementSytem.dll
+/Users/roshithkr/Projects/DoctorMangementSytem/DoctorMangementSytem/obj/Debug/netcoreapp3.1/DoctorMangementSytem.pdb
+/Users/roshithkr/Projects/DoctorMangementSytem/DoctorMangementSytem/obj/Debug/netcoreapp3.1/DoctorMangementSytem.genruntimeconfig.cache
